@@ -10,9 +10,9 @@ using System.Windows.Forms;
 
 namespace TicariOtomasyon
 {
-    public partial class Form1 : Form
+    public partial class deneme : Form
     {
-        public Form1()
+        public deneme()
         {
             InitializeComponent();
         }
